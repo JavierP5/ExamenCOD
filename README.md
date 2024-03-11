@@ -1,15 +1,30 @@
-# Calculadora Librería
+Pasos Realizados:
 
-Esta es una librería que proporciona funciones para realizar operaciones básicas y raíces de cualquier índice.
+    Creación de Rama "raices":
+        Se ha creado una nueva rama llamada "raices" para implementar las operaciones de raíces con índices variables.
 
-## Instalación
+    Implementación de Operación de Raíces:
+        Se han añadido nuevas operaciones que realizan la raíz cuadrada o cúbica. El primer número enviado es el radicando y el segundo es el índice.
 
-1. Descarga el JAR desde la sección de releases.
-2. Incluye el JAR en tu proyecto.
+    Commits Detallados:
+        Se realizaron commits regulares para documentar el progreso durante el desarrollo de la funcionalidad de raíces.
 
-## Uso
+    Mezcla con Squash a la Rama Principal:
+        La rama "raices" se ha fusionado con la rama principal utilizando squash para consolidar los commits y mantener la historia del repositorio limpia.
 
-```java
-Calculadora calculadora = new Calculadora();
-double resultado = calculadora.calcularRaiz(16, 2); // Raíz cuadrada de 16
-System.out.println("Resultado: " + resultado);
+    Creación de Release:
+        Se ha creado una nueva release etiquetada, incluyendo el nuevo JAR que contiene la funcionalidad de raíces.
+
+    Subida del JAR a la Librería:
+        El JAR de la librería, con la nueva funcionalidad de raíces, se ha subido para su uso como una librería independiente.
+
+Cómo Utilizar la Librería:
+
+    Descarga:
+        Descarga el JAR desde la sección de releases.
+
+    Integración en tu Proyecto:
+        Añade el JAR descargado a tu proyecto.
+
+    Uso de Operaciones de Raíces:
+        Importa la clase correspondiente y utiliza los métodos para realizar operaciones de raíces con índices variables.
