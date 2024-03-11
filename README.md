@@ -1,7 +1,7 @@
 Pasos Realizados:
 
-    Creación de Rama "raices":
-        Se ha creado una nueva rama llamada "raices" para implementar las operaciones de raíces con índices variables.
+    Creación de Rama "Raíz":
+        Se ha creado una nueva rama llamada "Raíz" para implementar las operaciones de raíces con índices variables.
 
     Implementación de Operación de Raíces:
         Se han añadido nuevas operaciones que realizan la raíz cuadrada o cúbica. El primer número enviado es el radicando y el segundo es el índice.
